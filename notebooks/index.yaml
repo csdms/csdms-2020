@@ -1,0 +1,25 @@
+ECSimpleSnow:
+  - ecsimplesnow.ipynb
+  - gipl_and_ecsimplesnow.ipynb
+Cem:
+  - cem.ipynb
+  - cem_and_waves.ipynb
+Waves:
+  - cem_and_waves.ipynb
+GIPL:
+  - gipl.ipynb
+  - gipl_and_ecsimplesnow.ipynb
+Child:
+  - child.ipynb
+  - sedflux3d_and_child.ipynb
+Sedflux3D:
+  - sedflux3d.ipynb
+  - sedflux3d_and_child.ipynb
+FrostNumber:
+  - frost_number.ipynb
+Hydrotrend:
+  - hydrotrend.ipynb
+Subside:
+  - subside.ipynb
+Ku:
+  - ku.ipynb
