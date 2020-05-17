@@ -56,7 +56,7 @@ The workshop will be held in two parts on Wednesday and Thursday, May 20 and 21,
 2. Provide a username and password - it can be whatever you like
 3. Wait for authorization - this will happen the morning of the workshop
 4. [Get the workshop tutorials for Part 1: landlab](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Flandlab&urlpath=tree%2Flandlab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
-5. [Get the workshop tutorials for Part 2: pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Findex.ipynb&branch=mcflugen%2Fmaster)
+5. [Get the workshop tutorials for Part 2: pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Findex.ipynb&branch=master)
 
 ## Extra credit
 
