@@ -49,17 +49,23 @@ The workshop will be held in two parts on Wednesday and Thursday, May 20 and 21,
 
 | Time (UTC)     | Topic                                  |
 | -------------- | -------------------------------------- |
-| 19:00 - 20:00  | Intro to *landlab*                     |
-| 20:00 - 21:00  | Building coupled models with *landlab* |
+| 19:00 - 19:05  | Welcome!                               |
+| 19:05 - 19:25  | Intro to *landlab*                     |
+| 19:25 - 19:40  | The CSDMS JupyterHub                   |
+| 19:40 - 19:45  | Break                                  |
+| 19:45 - 21:00  | Building coupled models with *landlab* |
 
-[Get the workshop tutorials for Part 1: landlab](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Flandlab&urlpath=tree%2Flandlab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
+[Get the workshop tutorials for Part 1: landlab](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Flandlab&branch=master)
 
 
 ### Part 2: Thursday May 21, 2020 (13:00 - 15:00 MDT)
 
 | Time (UTC)     | Topic                                  |
 | -------------- | -------------------------------------- |
-| 19:00 - 20:00  | The Basic Model Interface              |
+| 19:00 - 19:05  | Welcome!                               |
+| 19:05 - 19:15  | Introduction to the *pymt*             |
+| 19:15 - 20:00  | The Basic Model Interface              |
+| 19:40 - 19:45  | Break                                  |
 | 20:00 - 21:00  | Building coupled models with *pymt*    |
 
 [Get the workshop tutorials for Part 2: pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Fpymt%2Findex.ipynb&branch=master)
