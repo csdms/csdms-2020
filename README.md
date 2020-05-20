@@ -68,8 +68,8 @@ The workshop will be held in two parts on Wednesday and Thursday, May 20 and 21,
 | 19:40 - 19:45  | Break ☕                               |
 | 19:45 - 21:00  | Building coupled models with *pymt*    |
 
-[Get the workshop tutorials for Part 2: BMI](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Fbmi%2Findex.ipynb&branch=master)  
-[Get the workshop tutorials for Part 2: pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Fpymt%2Fcoming_soon.ipynb&branch=master)
+[Get the workshop tutorials for Part 2: BMI](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Fbmi%2Findex.ipynb&branch=day-2)  
+[Get the workshop tutorials for Part 2: pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Fpymt%2Fcoming_soon.ipynb&branch=day-2)
 
 
 ## Links
