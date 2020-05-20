@@ -72,14 +72,6 @@ The workshop will be held in two parts on Wednesday and Thursday, May 20 and 21,
 [Get the workshop tutorials for Part 2: pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fcsdms-2020&urlpath=tree%2Fcsdms-2020%2Fnotebooks%2Fpymt%2Findex.ipynb&branch=master)
 
 
-## Extra credit
-
-Additional notebooks are available for both *landlab* and *pymt*.
-
-1. [landlab](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Flandlab&urlpath=tree%2Flandlab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
-2. [pymt](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fpymt&urlpath=tree%2Fpymt%2Fnotebooks%2Fwelcome.ipynb&branch=master)
-
-
 ## Links
 
 * [Community Surface Dynamics Modeling System
@@ -87,6 +79,8 @@ Additional notebooks are available for both *landlab* and *pymt*.
 * [landlab documentation](https://landlab.readthedocs.io/en/v2_dev/)
 * [Basic Model Interface (BMI)](http://bmi.readthedocs.io)
 * [Python Modeling Toolkit (pymt)](http://pymt.readthedocs.io)
+* [Additional landlab notebook](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Flandlab&urlpath=tree%2Flandlab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
+* [Additional pymt notebooks](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fpymt&urlpath=tree%2Fpymt%2Fnotebooks%2Fwelcome.ipynb&branch=master)
 
 
 ## Thank you!
