@@ -76,7 +76,7 @@ The workshop will be held in two parts on Wednesday and Thursday, May 20 and 21,
 
 * [Community Surface Dynamics Modeling System
   (CSDMS)](http://csdms.colorado.edu)
-* [landlab documentation](https://landlab.readthedocs.io/en/v2_dev/)
+* [landlab documentation](https://landlab.readthedocs.io/)
 * [Basic Model Interface (BMI)](http://bmi.readthedocs.io)
 * [Python Modeling Toolkit (pymt)](http://pymt.readthedocs.io)
 * [Additional landlab notebook](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Flandlab&urlpath=tree%2Flandlab%2Fnotebooks%2Fwelcome.ipynb&branch=master)
