@@ -22,8 +22,8 @@
    prerequisite for this workshop and we will explain core concepts as
    we go along.
 1. **Background reading**: Read the
-   [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html)
-   open source paper about Landlab
+   [Hobley et al. (2017)](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html)
+   and [Barnhart et al. (2020)](https://www.earth-surf-dynam-discuss.net/esurf-2020-12/) open source papers about Landlab
 
 
 ## Requirements
